@@ -68,4 +68,3 @@ In this work, the focus was developing code using Python modular programming. In
 [2_Regression_Analysis.ipynb](2_Regression_Analysis.ipynb)
 
 [3_Machine_Learning_Models.ipynb](3_Machine_Learning_Models.ipynb)
-"# CapOne_MiniProject" 
